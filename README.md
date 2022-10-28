@@ -1,8 +1,8 @@
 Integrantes del Equipo(Perfiles de Github):
 
-[Francisco Ayra Caceres:](https://github.com/frankayra) C312
+[Francisco Ayra Caceres](https://github.com/frankayra)
 
-[Lazaro Daniel Gonzalez:](https://github.com/LazaroDGM) C311
+[Lazaro Daniel Gonzalez](https://github.com/LazaroDGM)
 # Descripcion General
 Starlink es un proyecto llevado a cabo por SpaceX empresa liderada por Elon Musk, uno de los magnates mas poderosos del mundo en este momento, con el objetivo de llevar Internet Satelital al mundo entero, de alguna forma unificar las empresas de internet, facilitar una rapidez responsable y al mismo tiempo normalizar la señal o cobertura para todas las regiones: rurales y urbanas.
 
